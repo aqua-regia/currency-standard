@@ -85,3 +85,6 @@ if __name__ == '__main__':
     print("************************")
     print(json.dumps(final_response))
     print("************************")
+
+    with open('result.json', 'w') as fp:
+        json.dump(final_response, fp)
