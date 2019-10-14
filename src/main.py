@@ -29,7 +29,6 @@ def TRUE_XOR(*args):
 
 if __name__ == '__main__':
     merged_currencies, collisions = merge_all_currencies(all_currencies_map)
-    print("collions are:- ", sorted(collisions))
 
     all_assets = []
     skipped = []
@@ -45,7 +44,7 @@ if __name__ == '__main__':
 
         else:
             if not fixed_asset and not zel_asset:
-                print(f"unable to generat for {current}")
+                print(f"unable to generate for {current}")
                 continue
 
             if e_asset:
@@ -82,4 +81,7 @@ if __name__ == '__main__':
 
     final_response = current_response + existing_response
 
+    print("\n\nfinal currency list is:- ")
+    print("************************")
     print(json.dumps(final_response))
+    print("************************")
