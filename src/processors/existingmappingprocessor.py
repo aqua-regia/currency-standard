@@ -24,9 +24,8 @@ class ExistingAssetProcessor(SymbolProcessor):
             return True
         return False
 
-    def parent_asset_id(self, asset_identifier_name):
-        if asset_identifier_name == 'ETH':
-            return self.existing_map['ETH']['assetId']
+    def symbol_asset_id(self, asset_identifier_name):
+        return self.existing_map[asset_identifier_name]['assetId']
 
     def get_all_existing(self):
         with open("../resources/existingmapping.json") as f:

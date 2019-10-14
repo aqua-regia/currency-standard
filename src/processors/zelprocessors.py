@@ -11,7 +11,9 @@ class ZelCoinsProcessor(SymbolProcessor):
 
         self.types = ['eos', 'eth', 'zcash', 'etc', 'bnb', 'stellar', 'ontology', 'electrum', 'neo', 'cryptonight', 'btc', 'tron', 'omni', 'ripple']
 
-        self.type_to_asset_type_conversion_map = {"eth": "ERC20", "omni": "PropertyId"}
+        neo_types = {"neo": "NEOGoverningToken", "gas": "NEOUtilityToken", "fish": "NEP5", "neofish": "NEP5"}
+
+        self.type_to_asset_type_conversion_map = {"eth": "ERC20", "omni": "PropertyId", "neo": neo_types}
 
         self.conversion_map = {
             "symbol": lambda x: sorted(x['uri'], key=len)[0].upper(),
@@ -36,7 +38,7 @@ class ZelCoinsProcessor(SymbolProcessor):
         self.ep_processor = ep
 
     def _handle_misc_coin_info(self, asset_key, coin_info):
-        if coin_info['type'] not in ['eth', 'omni']:
+        if coin_info['type'] not in ['eth', 'omni', 'neo']:
             return None
 
         if coin_info['type'] == 'eth':
@@ -45,7 +47,7 @@ class ZelCoinsProcessor(SymbolProcessor):
             elif asset_key == 'assetIdentifierValue':
                 return coin_info['contractAddress']
             elif asset_key == 'parentAssetId':
-                return self.ep_processor.parent_asset_id('ETH')
+                return self.ep_processor.symbol_asset_id('ETH')
             elif asset_key == 'assetType':
                 return "ERC20"
             else:
@@ -60,6 +62,18 @@ class ZelCoinsProcessor(SymbolProcessor):
                 return "OMNI"
             elif asset_key == 'parentAssetId':
                 pass
+            else:
+                print("oggy nahi dekha to kya dekha")
+
+        elif coin_info['type'] == 'neo':
+            if asset_key == 'assetIdentifierName':
+                return "Asset ID"
+            elif asset_key == 'assetIdentifierValue':
+                return coin_info['contractScriptHash']
+            elif asset_key == 'assetType':
+                return self.type_to_asset_type_conversion_map['neo'][coin_info['uri'][0].lower()]
+            elif asset_key == 'parentAssetId':
+                return self.ep_processor.symbol_asset_id('NEO')
             else:
                 print("oggy nahi dekha to kya dekha")
 

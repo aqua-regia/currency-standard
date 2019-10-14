@@ -720,7 +720,7 @@
     "parentAssetId": null
   },
   {
-    "assetId": "b3e4cc24-5af1-4ed3-b989-15a79f0282de",
+    "assetId": "97b02406-2331-4ee2-99db-8751ca6c1782",
     "symbol": "VTHO",
     "name": "VeThor",
     "assetType": "VIP180",
@@ -767,16 +767,6 @@
     "decimals": 18,
     "assetIdentifierName": "Contract Address",
     "assetIdentifierValue": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
-    "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a"
-  },
-  {
-    "assetId": "03f09588-239c-4e54-98b2-19f7649fb692",
-    "symbol": "BNB",
-    "name": "BNB",
-    "assetType": "ERC20",
-    "decimals": 18,
-    "assetIdentifierName": "Contract Address",
-    "assetIdentifierValue": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a"
   }
 ]

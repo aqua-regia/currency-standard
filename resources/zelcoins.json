@@ -159,7 +159,7 @@
       "fast": 14
     },
     "color": "#b0b0b0",
-    "contractAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "contractAddress": null,
     "decimals": 18
   },
   "litecoin": {
@@ -4937,7 +4937,7 @@
     ],
     "unit": "NEO",
     "type": "neo",
-    "contractScriptHash": "c56f33fc6ecfcd0c225c4ab356fee59390af8560be0e930faebe74a6daff7c9b",
+      "contractScriptHash": "c56f33fc6ecfcd0c225c4ab356fee59390af8560be0e930faebe74a6daff7c9b",
     "explorer": [
       "https://neoscan.io/transaction/"
     ],
@@ -5363,6 +5363,35 @@
     },
     "contractAddress": "0x9556f8ee795d991ff371f547162d5efb2769425f",
     "color": "#7BC619",
+    "decimals": 18
+  },
+  "binance": {
+    "coin": "binance",
+    "name": "Binance Coin",
+    "uri": [
+      "bnb"
+    ],
+    "addresses": [],
+    "api": [
+      "https://api.etherscan.io/api?module=account&action=tokentx&contractaddress=0xb8c77482e45f1f44de1745f52c74426c631bdd52&address="
+    ],
+    "unit": "BNBERC20",
+    "type": "eth",
+    "explorer": [
+      "https://etherscan.io/tx/"
+    ],
+    "logolink": "static/logos/BNB.svg",
+    "node": [
+      "https://mainnet.infura.io/v3/97c8bf358b9942a9853fab1ba93dc5b3"
+    ],
+    "fee": 63000,
+    "feepolicy": {
+      "economy": 10,
+      "normal": 15,
+      "fast": 20
+    },
+    "contractAddress": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+    "color": "#f3ba2f",
     "decimals": 18
   }
 }

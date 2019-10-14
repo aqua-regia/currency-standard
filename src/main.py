@@ -70,10 +70,16 @@ if __name__ == '__main__':
                         else:
                             skipped.append(f'zel-{zel_asset.symbol}')
                     else:
-                        if (e_asset and e_asset.assetIdentifierValue) or (fixed_asset and fixed_asset.assetIdentifierValue):
+                        if (e_asset and e_asset.assetIdentifierValue):
+                            if e_asset.parentAssetId and (e_asset.parentAssetId == zel_asset.parentAssetId):
+                                pass
+                            else:
+                                all_assets.append(zel_asset)
+                                continue
+                        if fixed_asset and (fixed_asset.parentAssetId == zel_asset.assetIdentifierValue):
                             all_assets.append(zel_asset)
                         else:
-                            skipped.append(f'zel-{zel_asset.symbol}')
+                            pass
 
     current_response = [asset.to_dict_deep() for asset in all_assets]
 
@@ -86,5 +92,5 @@ if __name__ == '__main__':
     print(json.dumps(final_response))
     print("************************")
 
-    with open('result.json', 'w') as fp:
+    with open('../resources/asset_list.json', 'w') as fp:
         json.dump(final_response, fp)
