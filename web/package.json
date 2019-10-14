@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "blockstack": "^19.2.5",
+    "jsontokens": "^2.0.2"
+  }
+}

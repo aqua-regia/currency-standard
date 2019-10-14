@@ -6,6 +6,7 @@ import requests
 SOURCE_URL = "https://gaia.blockstack.org/hub/1N8d4Xvz2rsEf3dRikHGdLGMfjqJSd4ayd/asset-list.json"
 # SOURCE_URL = None
 
+
 class AssetListValidations(TestCase):
     def setUp(self):
         if SOURCE_URL:

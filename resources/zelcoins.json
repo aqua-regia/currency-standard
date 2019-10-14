@@ -5052,44 +5052,6 @@
     },
     "color": "#08b5e5"
   },
-  "tron": {
-    "coin": "tron",
-    "name": "TRON",
-    "uri": [
-      "tron"
-    ],
-    "pubKeyHash": "1e",
-    "scriptHash": "16",
-    "wif": "9e",
-    "normalAddress": "T",
-    "normalAddressB": "T",
-    "slip": 195,
-    "addresses": [],
-    "api": [
-      "https://api.trongrid.io/"
-    ],
-    "pathunix": "tron",
-    "path": "Tron",
-    "unit": "TRX",
-    "config": "tron",
-    "rpcport": 50051,
-    "type": "tron",
-    "explorer": [
-      "https://www.trxplorer.io/tx/",
-      "https://tronscan.org/#/transaction/"
-    ],
-    "logolink": "static/logos/TRX.svg",
-    "node": [
-      "https://api.trongrid.io/"
-    ],
-    "fee": 0,
-    "feepolicy": {
-      "economy": 5,
-      "normal": 10,
-      "fast": 20
-    },
-    "color": "#eb0029"
-  },
   "gcstar": {
     "coin": "gcstar",
     "name": "GCSTAR",

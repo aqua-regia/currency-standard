@@ -7,7 +7,7 @@
     "assetIdentifierValue": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "a6dcc0d0-cb6e-47e0-a495-1ac33406f099"
+    "assetId": "7c3baa3c-f5e8-490a-88a1-e0a052b7caa4"
   },
   {
     "symbol": "USDT",
@@ -17,7 +17,7 @@
     "assetIdentifierValue": 394,
     "parentAssetId": null,
     "assetType": "OMNI",
-    "assetId": "aa228f17-e518-4bbf-b80a-0943acbe4e78"
+    "assetId": "c0a38c0b-f249-4d4b-a17d-d03a95e09fa6"
   },
   {
     "symbol": "ZEL",
@@ -27,7 +27,7 @@
     "assetIdentifierValue": null,
     "parentAssetId": null,
     "assetType": null,
-    "assetId": "62d005ec-437c-4478-84b2-425494b146f0"
+    "assetId": "d7eecb5a-b370-4a40-af1a-ce5910e89c33"
   },
   {
     "symbol": "TESTNET",
@@ -37,7 +37,7 @@
     "assetIdentifierValue": null,
     "parentAssetId": null,
     "assetType": null,
-    "assetId": "7ddcd43c-0f13-4761-ba9d-a719207c1c15"
+    "assetId": "cb80d38c-cae1-4e39-bddc-171e0d009fec"
   },
   {
     "symbol": "BTCZ",
@@ -47,7 +47,7 @@
     "assetIdentifierValue": null,
     "parentAssetId": null,
     "assetType": null,
-    "assetId": "4584ac35-a69e-4705-ae5c-3bcbbfae214a"
+    "assetId": "0ccadfd4-7ab3-40d9-afdd-28cf75eed7d5"
   },
   {
     "symbol": "BTX",
@@ -57,7 +57,7 @@
     "assetIdentifierValue": null,
     "parentAssetId": null,
     "assetType": null,
-    "assetId": "8733ea48-25d3-4459-864e-77ec868ed16e"
+    "assetId": "cced16b1-4326-42e2-a5dd-bf9cae4d3517"
   },
   {
     "symbol": "HUSH",
@@ -67,7 +67,7 @@
     "assetIdentifierValue": null,
     "parentAssetId": null,
     "assetType": null,
-    "assetId": "e37db05b-c19c-4b0d-9dcd-a65512356b9c"
+    "assetId": "ef025446-52a0-42aa-bebe-060aa1678617"
   },
   {
     "symbol": "SONM",
@@ -77,7 +77,7 @@
     "assetIdentifierValue": "0x983f6d60db79ea8ca4eb9968c6aff8cfa04b3c63",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "14e9a990-c1a9-4ed5-b851-8c470ea425b0"
+    "assetId": "8900d824-c0db-460f-b64f-e81f4e95a8ba"
   },
   {
     "symbol": "ZIL",
@@ -87,7 +87,7 @@
     "assetIdentifierValue": "0x05f4a42e251f2d52b8ed15e9fedaacfcef1fad27",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "424b092f-574c-432d-9ac5-53f9b533b4d3"
+    "assetId": "2f907203-347d-436e-8180-1684586f8826"
   },
   {
     "symbol": "0X",
@@ -97,7 +97,7 @@
     "assetIdentifierValue": "0xe41d2489571d322189246dafa5ebde1f4699f498",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "bf5c5194-3e1b-4ecf-83c2-48399a494388"
+    "assetId": "5d61cd00-ab51-403a-8804-133ecbb15a2a"
   },
   {
     "symbol": "KCS",
@@ -107,7 +107,7 @@
     "assetIdentifierValue": "0x039b5649a59967e3e936d7471f9c3700100ee1ab",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "89ee2366-131a-4e1f-a1a2-18b5fdd7aedd"
+    "assetId": "69317f2b-37da-477c-af45-c4a939f7c7c0"
   },
   {
     "symbol": "KNC",
@@ -117,7 +117,7 @@
     "assetIdentifierValue": "0xdd974d5c2e2928dea5f71b9825b8b646686bd200",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "c95249f2-10fe-4270-aaed-47d1fa12e081"
+    "assetId": "5ff04c4e-ed84-4c56-b18b-c8c0a1de3e4e"
   },
   {
     "symbol": "ENG",
@@ -127,7 +127,7 @@
     "assetIdentifierValue": "0xf0ee6b27b759c9893ce4f094b49ad28fd15a23e4",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "93751b60-8995-42bd-b20b-5d412df18ab9"
+    "assetId": "c9e5e717-e3f5-45eb-80c8-fd8f721e56a1"
   },
   {
     "symbol": "SUB",
@@ -137,7 +137,7 @@
     "assetIdentifierValue": "0x8d75959f1e61ec2571aa72798237101f084de63a",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "238c260c-b175-42a9-84eb-f380dd69226e"
+    "assetId": "734f8ecf-f505-4535-9d02-b70160df8406"
   },
   {
     "symbol": "STX",
@@ -147,7 +147,7 @@
     "assetIdentifierValue": "0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "64c25c77-3e02-4ace-8304-dfa77aea2194"
+    "assetId": "de2ed866-46b9-48a8-b582-df5a9dfd29d4"
   },
   {
     "symbol": "XSG",
@@ -157,7 +157,7 @@
     "assetIdentifierValue": null,
     "parentAssetId": null,
     "assetType": null,
-    "assetId": "62c17d29-2ddc-4fdc-9c17-a70f72522efc"
+    "assetId": "3e083bd5-d5b7-4918-b05e-cd76fe2979c8"
   },
   {
     "symbol": "BTCP",
@@ -167,7 +167,7 @@
     "assetIdentifierValue": null,
     "parentAssetId": null,
     "assetType": null,
-    "assetId": "b3b5df3d-3f5f-426d-93bd-1d4fda20360a"
+    "assetId": "6a980721-ec24-4248-b3be-2fb49202be87"
   },
   {
     "symbol": "ANON",
@@ -177,7 +177,7 @@
     "assetIdentifierValue": null,
     "parentAssetId": null,
     "assetType": null,
-    "assetId": "da26135c-188c-4439-9463-1fb6a5a3d0d2"
+    "assetId": "142e9a63-26fb-45cf-83e6-3f08417cd089"
   },
   {
     "symbol": "ZEN",
@@ -187,7 +187,7 @@
     "assetIdentifierValue": null,
     "parentAssetId": null,
     "assetType": null,
-    "assetId": "977e65ac-406c-4125-9474-39aa537b1c52"
+    "assetId": "200de082-92d0-4473-892c-85feddc999c7"
   },
   {
     "symbol": "SAFE",
@@ -197,7 +197,7 @@
     "assetIdentifierValue": null,
     "parentAssetId": null,
     "assetType": null,
-    "assetId": "b64f763a-579e-441b-b784-0956d23f30a1"
+    "assetId": "f35cac77-92d5-4912-a79f-a83a258b39ce"
   },
   {
     "symbol": "KMD",
@@ -207,7 +207,7 @@
     "assetIdentifierValue": null,
     "parentAssetId": null,
     "assetType": null,
-    "assetId": "696de95e-93b5-4e1d-a514-b74379b7999a"
+    "assetId": "3d247a88-fb3d-43e1-95d3-b4cf67d20b16"
   },
   {
     "symbol": "XZC",
@@ -217,7 +217,7 @@
     "assetIdentifierValue": null,
     "parentAssetId": null,
     "assetType": null,
-    "assetId": "42bc9316-7f87-47e3-aafc-84c0c394338b"
+    "assetId": "90ea7839-016f-4cd0-b88c-2c738f7740e4"
   },
   {
     "symbol": "ZERO",
@@ -227,7 +227,7 @@
     "assetIdentifierValue": null,
     "parentAssetId": null,
     "assetType": null,
-    "assetId": "5bb4d449-81e1-4acd-9ff2-cdf00924fc9b"
+    "assetId": "ab840712-a824-43f5-adff-5ecf55463dff"
   },
   {
     "symbol": "ABT",
@@ -237,7 +237,7 @@
     "assetIdentifierValue": "0xb98d4c97425d9908e66e53a6fdf673acca0be986",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "b60ed5d5-4676-4381-91ea-8fe307f68b1c"
+    "assetId": "0c232e93-055f-4ca3-9a8e-90f9a2a20339"
   },
   {
     "symbol": "ADX",
@@ -247,7 +247,7 @@
     "assetIdentifierValue": "0x4470bb87d77b963a013db939be332f927f2b992e",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "22f8f740-47b8-472d-b69e-1c8eaae3a1b5"
+    "assetId": "72ef492d-56dc-457f-bd58-19d87c73df3c"
   },
   {
     "symbol": "AE",
@@ -257,7 +257,7 @@
     "assetIdentifierValue": "0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "206d7ed8-2973-4e56-b89b-f3f581d458c9"
+    "assetId": "05098835-7b2c-4b5b-9f25-7b49b058bc97"
   },
   {
     "symbol": "BBO",
@@ -267,7 +267,7 @@
     "assetIdentifierValue": "0x84f7c44b6fed1080f647e354d552595be2cc602f",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "99a3d8e2-d6f9-4b3d-9129-3becd98b1b42"
+    "assetId": "2c73dcac-8050-405f-a0b0-d0a5b208bbbe"
   },
   {
     "symbol": "BLZ",
@@ -277,7 +277,7 @@
     "assetIdentifierValue": "0x5732046a883704404f284ce41ffadd5b007fd668",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "47269f6e-5f89-493e-b02b-d91d635684a0"
+    "assetId": "444f5384-05d0-4cf1-b373-3a4b33780796"
   },
   {
     "symbol": "COFI",
@@ -287,7 +287,7 @@
     "assetIdentifierValue": "0x3136ef851592acf49ca4c825131e364170fa32b3",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "8ea7a10e-51bc-488f-9ef2-b3ffda9d52b6"
+    "assetId": "143399ca-3803-4f49-9fd8-3b4d2687d08c"
   },
   {
     "symbol": "DGX",
@@ -297,7 +297,7 @@
     "assetIdentifierValue": "0x4f3afec4e5a3f2a6a1a411def7d7dfe50ee057bf",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "28226f17-d55b-4fa5-aaf7-8cd04383443f"
+    "assetId": "7a45b108-27ae-4634-b5e8-1c1c663bf1e8"
   },
   {
     "symbol": "ELEC",
@@ -307,7 +307,7 @@
     "assetIdentifierValue": "0xd49ff13661451313ca1553fd6954bd1d9b6e02b9",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "fd02e5cf-9908-435a-a2d0-f26a689e5052"
+    "assetId": "5cfb209c-2117-4702-bb0c-6e3fcda7c776"
   },
   {
     "symbol": "ELF",
@@ -317,7 +317,7 @@
     "assetIdentifierValue": "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "634280ce-0529-4348-b6d6-c10760efc108"
+    "assetId": "11d58e2f-8baf-452e-8041-71ae5a9f6d48"
   },
   {
     "symbol": "ENJ",
@@ -327,7 +327,7 @@
     "assetIdentifierValue": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "3342605b-6f16-43f0-afba-b1914b85827b"
+    "assetId": "090fc3e1-6c48-45ca-8bd4-fcef4def8865"
   },
   {
     "symbol": "IOST",
@@ -337,7 +337,7 @@
     "assetIdentifierValue": "0xfa1a856cfa3409cfa145fa4e20eb270df3eb21ab",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "5ade6b3c-6828-4119-946f-a22dce612a7b"
+    "assetId": "aa6a5fa4-c7c2-43b6-9f57-95329d1ce339"
   },
   {
     "symbol": "DENT",
@@ -347,7 +347,7 @@
     "assetIdentifierValue": "0x3597bfd533a99c9aa083587b074434e61eb0a258",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "1a52f674-be27-44de-b431-037213db86f0"
+    "assetId": "551ec9bb-62a2-4032-8dce-13ec418b743a"
   },
   {
     "symbol": "LEND",
@@ -357,7 +357,7 @@
     "assetIdentifierValue": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "4310e77a-0f53-4529-b9b9-d1e408210125"
+    "assetId": "1cb6816b-5f99-44c1-959a-85bad7eeae67"
   },
   {
     "symbol": "LRC",
@@ -367,7 +367,7 @@
     "assetIdentifierValue": "0xEF68e7C694F40c8202821eDF525dE3782458639f",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "58e21040-fef8-4a22-9bb0-46d500af7878"
+    "assetId": "091914bb-d5c3-439f-be08-a315ed752e0c"
   },
   {
     "symbol": "QASH",
@@ -377,7 +377,7 @@
     "assetIdentifierValue": "0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "d4c1c0f1-3186-4bf8-ad30-ea5cef0a9065"
+    "assetId": "2c633f27-9c57-4fd7-9005-5d3422b64f2f"
   },
   {
     "symbol": "ICN",
@@ -387,7 +387,7 @@
     "assetIdentifierValue": "0x888666CA69E0f178DED6D75b5726Cee99A87D698",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "7fb61d8b-db2c-4c89-9886-68384d675987"
+    "assetId": "08ef14a3-b162-4cd4-aec7-d23a94f8c4ad"
   },
   {
     "symbol": "RDN",
@@ -397,7 +397,7 @@
     "assetIdentifierValue": "0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "6962a86e-6de5-4750-8fce-6d8d49794ec4"
+    "assetId": "a250b8e7-4214-42d9-9567-2cbd4dad5b1a"
   },
   {
     "symbol": "REQ",
@@ -407,7 +407,7 @@
     "assetIdentifierValue": "0x8f8221afbb33998d8584a2b05749ba73c37a938a",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "408b2ce3-b1ba-4690-99af-ee20d0c68960"
+    "assetId": "01f9b537-d73a-48d2-acde-8b2639186bf3"
   },
   {
     "symbol": "SALT",
@@ -417,7 +417,7 @@
     "assetIdentifierValue": "0x4156D3342D5c385a87D264F90653733592000581",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "3832ddbc-535f-498e-b285-3a21ff262653"
+    "assetId": "432ffb34-df15-42ac-ab92-0cf4aa66eb10"
   },
   {
     "symbol": "EDO",
@@ -427,7 +427,7 @@
     "assetIdentifierValue": "0xced4e93198734ddaff8492d525bd258d49eb388e",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "addc322f-3f46-483a-a5c2-b1fd915dd253"
+    "assetId": "b5c10674-fa95-422a-a6dd-a54ededc54e5"
   },
   {
     "symbol": "DCN",
@@ -437,7 +437,7 @@
     "assetIdentifierValue": "0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "f05eb1fc-d3cd-4566-8db1-e4e0678e2665"
+    "assetId": "34b3952b-b8b2-4a62-b54d-259df3619e02"
   },
   {
     "symbol": "WAX",
@@ -447,7 +447,7 @@
     "assetIdentifierValue": "0x39Bb259F66E1C59d5ABEF88375979b4D20D98022",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "09ec04fd-686c-4633-aeb5-308ba9f3ad7e"
+    "assetId": "c3b8a66c-0eec-4b75-8519-e9ae9283fca1"
   },
   {
     "symbol": "WINGS",
@@ -457,7 +457,7 @@
     "assetIdentifierValue": "0x667088b212ce3d06a1b553a7221E1fD19000d9aF",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "0e4ce215-a25f-48a2-9f24-30ecef8e079a"
+    "assetId": "9fd3e932-6140-43e7-bbe9-7dcfae10fd4a"
   },
   {
     "symbol": "DATA",
@@ -467,7 +467,7 @@
     "assetIdentifierValue": "0x69b148395ce0015c13e36bffbad63f49ef874e03",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "f5cd44dd-2247-47c3-adb1-39d6f7b31102"
+    "assetId": "6f15f5df-d526-4670-8afc-26a7fafb5154"
   },
   {
     "symbol": "KIN",
@@ -477,7 +477,7 @@
     "assetIdentifierValue": "0x818fc6c2ec5986bc6e2cbf00939d90556ab12ce5",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "87ced556-a88c-48a6-bac0-9f0810c0d588"
+    "assetId": "39c343cb-65a9-4d58-9f59-f32f99441661"
   },
   {
     "symbol": "ZCL",
@@ -487,7 +487,7 @@
     "assetIdentifierValue": null,
     "parentAssetId": null,
     "assetType": null,
-    "assetId": "1a34e1c4-c9f5-47f5-8f09-f234fa05c59a"
+    "assetId": "0cd4eda8-f694-4187-8848-28b18a6880ad"
   },
   {
     "symbol": "SRN",
@@ -497,7 +497,7 @@
     "assetIdentifierValue": "0x68d57c9a1c35f63e2c83ee8e49a64e9d70528d25",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "f7e1d0ee-08ea-45fc-b31a-53e6d5766084"
+    "assetId": "ac446d9c-23b8-4e5d-88db-30d3c016b624"
   },
   {
     "symbol": "AOA",
@@ -507,7 +507,7 @@
     "assetIdentifierValue": "0x9ab165d795019b6d8b3e971dda91071421305e5a",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "a984061f-a96f-4b1c-8ad2-d7fd6c96dd18"
+    "assetId": "322050b1-f66e-4185-a4f4-ffa6a813b944"
   },
   {
     "symbol": "THETA",
@@ -517,7 +517,7 @@
     "assetIdentifierValue": "0x3883f5e181fccaF8410FA61e12b59BAd963fb645",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "e4d83c9e-9f5c-43e0-abcc-6f34a1e51904"
+    "assetId": "0adc10ed-445d-45ab-b588-d668e3fb4177"
   },
   {
     "symbol": "CONI",
@@ -527,7 +527,7 @@
     "assetIdentifierValue": "0x2c949199cff14aeaf1b33d64db01f48fb57f592f",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "377babe8-5486-48c9-a937-ec1b74d97f5b"
+    "assetId": "18c2a6bd-d40c-4d22-8c34-d12e5a3f9639"
   },
   {
     "symbol": "TOK",
@@ -537,7 +537,7 @@
     "assetIdentifierValue": "0x9a49f02e128a8e989b443a8f94843c0918bf45e7",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "4eb27b73-e517-4e96-889b-591417697b45"
+    "assetId": "1e869b44-2b13-4ded-b201-5c464071ea5e"
   },
   {
     "symbol": "GENX",
@@ -547,7 +547,7 @@
     "assetIdentifierValue": null,
     "parentAssetId": null,
     "assetType": null,
-    "assetId": "24133890-34e5-4eff-a2fe-cf496b903110"
+    "assetId": "bbc4eb28-3a10-4a3b-8623-065c2890dfa4"
   },
   {
     "symbol": "POR",
@@ -557,7 +557,7 @@
     "assetIdentifierValue": "0x08c507046e12cd1538741d067d28411f2b922062",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "1df412ae-e458-4007-ac05-73213427ae36"
+    "assetId": "20bbade4-f8d7-49ab-b682-d3862e5dac8f"
   },
   {
     "symbol": "BZE",
@@ -567,7 +567,7 @@
     "assetIdentifierValue": null,
     "parentAssetId": null,
     "assetType": null,
-    "assetId": "20f225b8-1391-4731-98a1-6829c99205b1"
+    "assetId": "af9ba7d8-de7a-4a37-9ed6-d829dc1c1633"
   },
   {
     "symbol": "BTH",
@@ -577,7 +577,7 @@
     "assetIdentifierValue": null,
     "parentAssetId": null,
     "assetType": null,
-    "assetId": "e4a6fcbd-e19c-4205-aeff-dc31adce11c9"
+    "assetId": "958ec377-3ba6-47e7-a601-2b2907e96beb"
   },
   {
     "symbol": "ADT",
@@ -587,7 +587,7 @@
     "assetIdentifierValue": "0xd0d6d6c5fe4a677d343cc433536bb717bae167dd",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "086a117f-85af-4162-b494-37856e750993"
+    "assetId": "140a8992-1cfb-4a21-b9e9-3653a9d9be85"
   },
   {
     "symbol": "MFT",
@@ -597,7 +597,7 @@
     "assetIdentifierValue": "0xdf2c7238198ad8b389666574f2d8bc411a4b7428",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "4604c7df-aed9-4585-a09b-3df436082bd7"
+    "assetId": "ce755fe9-8109-4b8b-8abe-e5fe546bc95f"
   },
   {
     "symbol": "ATL",
@@ -607,7 +607,7 @@
     "assetIdentifierValue": "0x78b7fada55a64dd895d8c8c35779dd8b67fa8a05",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "86bbd2fc-ed81-4916-9295-7173058a9a82"
+    "assetId": "0005456f-6aca-4efe-82ba-08b49bc85856"
   },
   {
     "symbol": "ARN",
@@ -617,7 +617,7 @@
     "assetIdentifierValue": "0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "e2767bc2-2be3-4cb5-bf47-ffe966ae5edb"
+    "assetId": "2676f307-9170-4c1c-a01c-9128af0a3e0e"
   },
   {
     "symbol": "BRD",
@@ -627,7 +627,7 @@
     "assetIdentifierValue": "0x558ec3152e2eb2174905cd19aea4e34a23de9ad6",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "75367452-0f86-4b9b-80ec-0475404aa7f6"
+    "assetId": "86668c56-7e69-4844-8528-cd3cf0d4df5a"
   },
   {
     "symbol": "QKC",
@@ -637,7 +637,7 @@
     "assetIdentifierValue": "0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "78ff7bc3-d711-4a55-a7f9-466d84400a07"
+    "assetId": "2b78f8bb-5eb4-4af2-89d4-f744ce25b3ea"
   },
   {
     "symbol": "EURS",
@@ -647,7 +647,7 @@
     "assetIdentifierValue": "0xdb25f211ab05b1c97d595516f45794528a807ad8",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "8d3413ca-87fb-4bca-b47b-20148a38853d"
+    "assetId": "ae162a66-b51d-4b14-8227-1a890729fc08"
   },
   {
     "symbol": "CMM",
@@ -657,7 +657,7 @@
     "assetIdentifierValue": null,
     "parentAssetId": null,
     "assetType": null,
-    "assetId": "377abcfa-3b17-49f1-8eec-2f0ef216a15a"
+    "assetId": "e6c40bad-ac41-4977-aa4f-3ac48cdaeb67"
   },
   {
     "symbol": "GRS",
@@ -667,7 +667,7 @@
     "assetIdentifierValue": null,
     "parentAssetId": null,
     "assetType": null,
-    "assetId": "e7f4e290-5415-49ec-8988-c1fabbe340f5"
+    "assetId": "600a73a1-2894-47e2-9167-fc2d0f7a06b3"
   },
   {
     "symbol": "GUNTHY",
@@ -677,7 +677,7 @@
     "assetIdentifierValue": "0x3684b581db1f94b721ee0022624329feb16ab653",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "efa7a99d-0c3d-42c8-a783-97059d90d664"
+    "assetId": "a5fab581-faed-47c3-a0e6-de19142dd38b"
   },
   {
     "symbol": "MTL",
@@ -687,7 +687,7 @@
     "assetIdentifierValue": "0xF433089366899D83a9f26A773D59ec7eCF30355e",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "cf557fb2-8738-4686-ae66-0548046b7d9f"
+    "assetId": "3727ffd9-4d05-4736-9b55-6f4f0200e4df"
   },
   {
     "symbol": "AGI",
@@ -697,7 +697,7 @@
     "assetIdentifierValue": "0x8eb24319393716668d768dcec29356ae9cffe285",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "0ba8ea65-a5b6-4964-8090-49f8dd3ea3ac"
+    "assetId": "4ef1e6f8-8573-4262-9b9f-e74c3e943388"
   },
   {
     "symbol": "AMB",
@@ -707,7 +707,7 @@
     "assetIdentifierValue": "0x4dc3643dbc642b72c158e7f3d2ff232df61cb6ce",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "79a8de00-40fc-4da2-bec6-1738e34c9177"
+    "assetId": "47de53af-7326-4f38-bc49-608eda072aae"
   },
   {
     "symbol": "BCPT",
@@ -717,7 +717,7 @@
     "assetIdentifierValue": "0x1c4481750daa5ff521a2a7490d9981ed46465dbd",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "20afb8b9-69b3-4a84-b997-f60adc27543e"
+    "assetId": "036e86b5-b459-4254-9ce6-3b103bb2d534"
   },
   {
     "symbol": "CDT",
@@ -727,7 +727,7 @@
     "assetIdentifierValue": "0x177d39ac676ed1c67a2b268ad7f1e58826e5b0af",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "182cda22-b86d-412d-a5cf-52a56e0d79ca"
+    "assetId": "638a8afd-3dad-47a7-b388-b7c3eeb123ff"
   },
   {
     "symbol": "CELR",
@@ -737,7 +737,7 @@
     "assetIdentifierValue": "0x4f9254c83eb525f9fcf346490bbb3ed28a81c667",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "041a6745-08ea-452a-acf5-7b282a51ea7a"
+    "assetId": "dc4c541f-1de1-4bcc-8ab2-2061857aadf8"
   },
   {
     "symbol": "STREAMR",
@@ -747,7 +747,7 @@
     "assetIdentifierValue": "0x0cf0ee63788a0849fe5297f3407f701e122cc023",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "6e412a95-d78b-429c-b206-659ca6446738"
+    "assetId": "94622fd9-fa73-4b8a-acaa-7188dfa709fd"
   },
   {
     "symbol": "DLT",
@@ -757,7 +757,7 @@
     "assetIdentifierValue": "0x07e3c70653548B04f0A75970C1F81B4CBbFB606f",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "209f9c61-5384-4645-aa16-8c3d85b2b9a3"
+    "assetId": "0d04166b-0dbb-4bc3-b4ff-cd9725e4014d"
   },
   {
     "symbol": "DOCK",
@@ -767,7 +767,7 @@
     "assetIdentifierValue": "0xe5dada80aa6477e85d09747f2842f7993d0df71c",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "276a3ec2-1ab3-4d64-b445-a73330d6b4e7"
+    "assetId": "dfbf84ea-3a6b-4e86-bc46-2eb9ff390e9f"
   },
   {
     "symbol": "EVX",
@@ -777,7 +777,7 @@
     "assetIdentifierValue": "0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "211dcf7c-b127-4791-af6d-0cb37262de4f"
+    "assetId": "3f505cc4-247e-4c14-9e7c-8bf526ebf2e1"
   },
   {
     "symbol": "GTO",
@@ -787,7 +787,7 @@
     "assetIdentifierValue": "0xc5bbae50781be1669306b9e001eff57a2957b09d",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "43fd29bd-b20f-43dc-a5cf-1959df01f4d5"
+    "assetId": "69d095a1-3344-4151-884a-5ddad8a61317"
   },
   {
     "symbol": "GVT",
@@ -797,7 +797,7 @@
     "assetIdentifierValue": "0x103c3a209da59d3e7c4a89307e66521e081cfdf0",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "906cb9a4-8271-415a-ae74-de6f6663dc95"
+    "assetId": "c280f62e-3e4a-4f60-b7c0-ce23f6c62296"
   },
   {
     "symbol": "HOT",
@@ -807,7 +807,7 @@
     "assetIdentifierValue": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "9d02689c-3a59-48af-85a0-7fa8b775b2a2"
+    "assetId": "4e5a34ce-571b-424a-b478-0d8d9929fbff"
   },
   {
     "symbol": "INS",
@@ -817,7 +817,7 @@
     "assetIdentifierValue": "0x5b2e4a700dfbc560061e957edec8f6eeeb74a320",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "736fa330-66a5-4a00-9147-b72482ae750e"
+    "assetId": "421691d1-34c0-4305-b03e-283ee63f1684"
   },
   {
     "symbol": "IOTX",
@@ -827,7 +827,7 @@
     "assetIdentifierValue": "0x6fb3e0a217407efff7ca062d46c26e5d60a14d69",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "36ce6757-40e8-47ae-839d-d0b0f5830734"
+    "assetId": "87b01a4d-07c4-4701-8ea1-5860ee547656"
   },
   {
     "symbol": "KEY",
@@ -837,7 +837,7 @@
     "assetIdentifierValue": "0x4cc19356f2d37338b9802aa8e8fc58b0373296e7",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "7e24fbfc-cb90-461e-beb1-d63182b50109"
+    "assetId": "90fe24c6-6ab9-4e49-a233-2789d18f29e9"
   },
   {
     "symbol": "MTH",
@@ -847,7 +847,7 @@
     "assetIdentifierValue": "0xaf4dce16da2877f8c9e00544c93b62ac40631f16",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "f38a0b0f-ca8f-4d66-82be-e310b3abadcb"
+    "assetId": "172922a0-557b-436f-9264-8032a45f725f"
   },
   {
     "symbol": "OAX",
@@ -857,7 +857,7 @@
     "assetIdentifierValue": "0x701c244b988a513c945973defa05de933b23fe1d",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "977a9336-f4e3-4bff-8240-553afc5fcafa"
+    "assetId": "95e2b5ad-d9b9-48a4-aef7-83e32a0c2032"
   },
   {
     "symbol": "OST",
@@ -867,7 +867,7 @@
     "assetIdentifierValue": "0x8eb24319393716668d768dcec29356ae9cffe285",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "db062519-5b63-4d67-a5a5-2d5c6ffa8cc4"
+    "assetId": "a6a4b0e0-3035-48df-8010-8bac30202815"
   },
   {
     "symbol": "REN",
@@ -877,7 +877,7 @@
     "assetIdentifierValue": "0x408e41876cccdc0f92210600ef50372656052a38",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "41953e4e-f60a-4462-81a6-a27c1474ed36"
+    "assetId": "50ce501d-7b39-4d85-a190-a20afbd9b8ed"
   },
   {
     "symbol": "SNGLS",
@@ -887,7 +887,7 @@
     "assetIdentifierValue": "0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "a335fd63-504f-4dd8-8796-57e68d2f3230"
+    "assetId": "747e2359-86ed-4751-a753-de17f9236300"
   },
   {
     "symbol": "TNT",
@@ -897,7 +897,7 @@
     "assetIdentifierValue": "0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "19ff68f4-c384-455b-8570-f2694ec539cb"
+    "assetId": "652f01f5-0985-479d-8960-696e471a5105"
   },
   {
     "symbol": "VIBE",
@@ -907,7 +907,7 @@
     "assetIdentifierValue": "0xe8ff5c9c75deb346acac493c463c8950be03dfba",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "c3cc9394-3647-4de6-9a0b-2fd74f511b6a"
+    "assetId": "e2ba9847-0f03-4de3-ad14-64308913334c"
   },
   {
     "symbol": "TAEL",
@@ -917,7 +917,7 @@
     "assetIdentifierValue": "0x286bda1413a2df81731d4930ce2f862a35a609fe",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "642e6573-491b-4413-b265-7948986855df"
+    "assetId": "807e58fb-f02a-49fa-9d14-af3a3db54c70"
   },
   {
     "symbol": "WPR",
@@ -927,7 +927,7 @@
     "assetIdentifierValue": "0x4CF488387F035FF08c371515562CBa712f9015d4",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "7ebbc933-3b25-4907-b174-bff17ca008b4"
+    "assetId": "91afb004-b898-484d-bc59-f2c2f288d912"
   },
   {
     "symbol": "DIBI",
@@ -937,7 +937,7 @@
     "assetIdentifierValue": "0xf39e4b22050334aaf04259d30d73e78bfee8ab58",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "fc78e3a2-4973-4e2e-9297-ea0896f7545c"
+    "assetId": "eafab11d-849e-479f-9600-16f29aedcd47"
   },
   {
     "symbol": "BZX",
@@ -947,7 +947,7 @@
     "assetIdentifierValue": null,
     "parentAssetId": null,
     "assetType": null,
-    "assetId": "652702a9-1ff5-40da-a052-0252cf9db4cb"
+    "assetId": "7f41fa08-a858-439e-a69d-56a767aba929"
   },
   {
     "symbol": "FUEL",
@@ -957,7 +957,7 @@
     "assetIdentifierValue": "0xea38eaa3c86c8f9b751533ba2e562deb9acded40",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "c453caea-efb1-4beb-8f7c-f7aabc399716"
+    "assetId": "b55759c9-1acc-4fc2-be21-d56741de5140"
   },
   {
     "symbol": "AXE",
@@ -967,7 +967,7 @@
     "assetIdentifierValue": null,
     "parentAssetId": null,
     "assetType": null,
-    "assetId": "5cd9b3a1-dcaa-49c7-9302-7037ca14156e"
+    "assetId": "2f3100b1-e43d-4396-bcdc-e865a720c812"
   },
   {
     "symbol": "LEO",
@@ -977,7 +977,7 @@
     "assetIdentifierValue": "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "c2dde206-5456-4936-96b0-89b5befe8e6f"
+    "assetId": "1c0ac4b6-d7ed-4faf-a4ce-dcb021389c6e"
   },
   {
     "symbol": "BXY",
@@ -987,7 +987,7 @@
     "assetIdentifierValue": "0x827d53c8170af52625f414bde00326fc8a085e86",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "5b3a909c-7e1b-49e7-9fc3-0cf490272682"
+    "assetId": "06d75333-df38-49b3-91f2-b537702f0e3e"
   },
   {
     "symbol": "USDS",
@@ -997,7 +997,7 @@
     "assetIdentifierValue": "0xa4bdb11dc0a2bec88d24a3aa1e6bb17201112ebe",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "d97222ca-12e1-420a-bfd8-e80321876d36"
+    "assetId": "55087f3f-a385-4219-825a-18fa6ee56a9f"
   },
   {
     "symbol": "NUKE",
@@ -1007,7 +1007,7 @@
     "assetIdentifierValue": "0xc58c0Fca06908E66540102356f2E91edCaEB8D81",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "133accf0-756b-43c0-98c9-dad520dcf456"
+    "assetId": "a2f25f45-ca0e-492f-87d3-129a92bae5d9"
   },
   {
     "symbol": "SIN",
@@ -1017,17 +1017,7 @@
     "assetIdentifierValue": null,
     "parentAssetId": null,
     "assetType": null,
-    "assetId": "8292fdd7-a10d-4efe-96c4-b1dc96109d53"
-  },
-  {
-    "symbol": "TRON",
-    "name": "TRON",
-    "decimals": null,
-    "assetIdentifierName": null,
-    "assetIdentifierValue": null,
-    "parentAssetId": null,
-    "assetType": null,
-    "assetId": "de7aadbc-b803-4798-8eb3-b031dffcf697"
+    "assetId": "92a30868-760f-4d35-bcd6-cad347ab5e5e"
   },
   {
     "symbol": "GCSTAR",
@@ -1037,7 +1027,7 @@
     "assetIdentifierValue": "0xb2d25d27f3f8f2265bedc400f00dac8b7521106a",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "4afc6316-37f0-4f70-99fa-0bf8e74f10da"
+    "assetId": "a44d35c5-4de2-4b89-976e-8aac1269a460"
   },
   {
     "symbol": "GCTGT",
@@ -1047,7 +1037,7 @@
     "assetIdentifierValue": "0xed1a361830628c87ca3e283450101b833ae26114",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "c0b01266-c34b-4e48-a5e5-4cbbecd0229e"
+    "assetId": "5b10f7af-5cf3-4985-9590-13ade7b6eb53"
   },
   {
     "symbol": "GCWAL",
@@ -1057,7 +1047,7 @@
     "assetIdentifierValue": "0x0bd0e8e9ce51945e3295f12a344ccaf6893f43f9",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "d4110c89-b332-4bb8-8eb8-4d3743c4f8b0"
+    "assetId": "5309cedf-e984-4e7e-aab9-522e4031509a"
   },
   {
     "symbol": "GCBEST",
@@ -1067,7 +1057,7 @@
     "assetIdentifierValue": "0x1388f1635aed7fc09526bd66f317e88aea888dd5",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "268abc06-734a-4d3c-984a-f641f5e17805"
+    "assetId": "5c9dcfac-8337-4301-8390-e0c43774a422"
   },
   {
     "symbol": "GCHD",
@@ -1077,7 +1067,7 @@
     "assetIdentifierValue": "0xa33d3b1bc1bf9fd9987c9e3f5e81722e12767a72",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "e1dd451d-8748-44ff-8c1b-da584137bd10"
+    "assetId": "a27d9d46-0f01-4b59-99cc-39e36da07825"
   },
   {
     "symbol": "LOWES",
@@ -1087,7 +1077,7 @@
     "assetIdentifierValue": "0x1675c092306d147d65ee81976d5d3bec99a3bb91",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "10b94b23-ddfe-44ec-bfa9-9fc907005562"
+    "assetId": "8e329a0d-b267-44b4-bf1d-6bb9c36d9a78"
   },
   {
     "symbol": "DMME",
@@ -1097,7 +1087,7 @@
     "assetIdentifierValue": "0x9556f8ee795d991ff371f547162d5efb2769425f",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a",
     "assetType": "ERC20",
-    "assetId": "05f91595-7991-400b-8806-34ae67892f7e"
+    "assetId": "548b3397-f0a8-411a-a8b2-c266d38385a1"
   },
   {
     "assetId": "b7683297-2194-4ce5-93ac-ac881f84b04f",
