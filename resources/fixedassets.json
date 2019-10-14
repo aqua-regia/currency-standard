@@ -1,0 +1,42 @@
+{
+  "VET": {
+    "assetId": null,
+    "symbol": "VET",
+    "name": "VeChain",
+    "assetType": null,
+    "decimals": 18,
+    "assetIdentifierName": null,
+    "assetIdentifierValue": null,
+    "parentAssetId": null
+  },
+  "VTHO": {
+    "assetId": null,
+    "symbol": "VTHO",
+    "name": "VeThor",
+    "assetType": "VIP180",
+    "decimals": 18,
+    "assetIdentifierName": "Contract Address",
+    "assetIdentifierValue": "0x0000000000000000000000000000456E65726779",
+    "parentAssetId": "b3e4cc24-5af1-4ed3-b989-15a79f0282de"
+  },
+  "NEO": {
+    "assetId": null,
+    "symbol": "NEO",
+    "name": "NEO",
+    "assetType": "NEOToken",
+    "decimals": 18,
+    "assetIdentifierName": "Asset ID",
+    "assetIdentifierValue": "c56f33fc6ecfcd0c225c4ab356fee59390af8560be0e930faebe74a6daff7c9b",
+    "parentAssetId": null
+  },
+  "GAS": {
+    "assetId": null,
+    "symbol": "GAS",
+    "name": "GAS",
+    "assetType": "NEOToken",
+    "decimals": 18,
+    "assetIdentifierName": "Asset ID",
+    "assetIdentifierValue": "602c79718b16e442de58778e148d0b1084e3b2dffd5de6b7b16cee7969282de7",
+    "parentAssetId": "aae85fa5-7d6a-427c-8088-37df459d55b8"
+  }
+}
