@@ -4,7 +4,6 @@ from src import currencies_map as all_currencies_map
 from src.processors.existingmappingprocessor import ExistingAssetProcessor
 from src.processors.fixedprocessor import FixedAssetProcessor
 from src.processors.zelprocessors import ZelCoinsProcessor
-import blockstack
 
 
 def merge_all_currencies(currency_sources: dict):
@@ -28,7 +27,7 @@ def TRUE_XOR(*args):
     return sum(bool(x) for x in args) == 1
 
 
-def _create_asset_list():
+def _create_asset_list(filename="asset_list_temp.json"):
     merged_currencies, collisions = merge_all_currencies(all_currencies_map)
 
     all_assets = []
@@ -93,9 +92,9 @@ def _create_asset_list():
     print(json.dumps(final_response))
     print("************************")
 
-    with open('../resources/asset_list.json', 'w') as fp:
+    with open(f'../resources/{filename}', 'w') as fp:
         json.dump(final_response, fp)
 
 
 if __name__ == '__main__':
-    _create_asset_list()
+    _create_asset_list("asset_list.json")

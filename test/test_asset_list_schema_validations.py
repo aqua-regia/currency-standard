@@ -1,10 +1,11 @@
-import json
 import re
 from unittest import TestCase
-import requests
 
-SOURCE_URL = "https://gaia.blockstack.org/hub/1N8d4Xvz2rsEf3dRikHGdLGMfjqJSd4ayd/asset-list.json"
-# SOURCE_URL = None
+import requests
+from test import asset_list
+
+# SOURCE_URL = "https://gaia.blockstack.org/hub/1N8d4Xvz2rsEf3dRikHGdLGMfjqJSd4ayd/asset-list.json"
+SOURCE_URL = None
 
 
 class AssetListValidations(TestCase):
@@ -12,8 +13,7 @@ class AssetListValidations(TestCase):
         if SOURCE_URL:
             self.asset_list = requests.get(SOURCE_URL).json()[0]['decodedToken']['payload']['claim']
         else:
-            with open("../resources/asset_list.json") as f:
-                self.asset_list = json.loads(f.read())
+            self.asset_list = asset_list
 
     def test_all_unique_asset_ids(self):
         asset_ids = []
