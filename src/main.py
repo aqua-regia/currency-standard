@@ -87,10 +87,9 @@ def _create_asset_list(filename="asset_list_temp.json"):
 
     final_response = current_response + existing_response
 
-    print("\n\nfinal currency list is:- ")
-    print("************************")
-    print(json.dumps(final_response))
-    print("************************")
+    # print("************************")
+    # print(json.dumps(final_response))
+    # print("************************")
 
     with open(f'../resources/{filename}', 'w') as fp:
         json.dump(final_response, fp)

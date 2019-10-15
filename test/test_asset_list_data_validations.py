@@ -36,5 +36,5 @@ class AssetListDataValidations(TestCase):
         identifier_value = []
         for current in self.asset_list:
             if current['assetIdentifierValue']:
-                self.assertNotIn(current['assetIdentifierValue'], identifier_value)
+                self.assertNotIn(current['assetIdentifierValue'], identifier_value, f"{current['assetIdentifierValue']} already present")
                 identifier_value.append(current['assetIdentifierValue'])

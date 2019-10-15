@@ -51,7 +51,7 @@ class ZelCoinsProcessor(SymbolProcessor):
             elif asset_key == 'assetType':
                 return "ERC20"
             else:
-                raise Exception("gangadhar hi skatimaan hai")
+                raise Exception("ethereum unhandled key")
 
         elif coin_info['type'] == 'omni':
             if asset_key == 'assetIdentifierName':
@@ -63,7 +63,7 @@ class ZelCoinsProcessor(SymbolProcessor):
             elif asset_key == 'parentAssetId':
                 pass
             else:
-                print("oggy nahi dekha to kya dekha")
+                raise Exception("omni unhandled key")
 
         elif coin_info['type'] == 'neo':
             if asset_key == 'assetIdentifierName':
@@ -75,7 +75,7 @@ class ZelCoinsProcessor(SymbolProcessor):
             elif asset_key == 'parentAssetId':
                 return self.ep_processor.symbol_asset_id('NEO')
             else:
-                print("oggy nahi dekha to kya dekha")
+                print("neo unhandled key")
 
     def _zel_coin_to_asset(self, zel_coin_symbol: dict):
         zel_coin_info = self.zel_coin_map[zel_coin_symbol]
