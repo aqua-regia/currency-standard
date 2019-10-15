@@ -32,3 +32,12 @@ class AssetListDataValidations(TestCase):
                     print(f"{current['symbol']} {coingecko_response.json()['symbol']} not matching")
             else:
                 print(f"{current} probably moved to a new contract address")
+
+    def test_collididing_asset_identifier_value(self):
+        # assuming even if the currencies are on different chain there is very less chance that they will have
+        # same identifier
+        identifier_value = []
+        for current in self.asset_list:
+            if current['assetIdentifierValue']:
+                self.assertNotIn(current['assetIdentifierValue'], identifier_value)
+                identifier_value.append(current['assetIdentifierValue'])
