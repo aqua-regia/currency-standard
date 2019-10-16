@@ -39,4 +39,4 @@ async function uploadContentToGaiaHub(hubURL, filename, privKey, filepath, type=
     return true;
 }
 
-uploadContentToGaiaHub("https://hub.cruxpay.com", "asset_list_temp.json", "", "../resources/asset_list.json")
+uploadContentToGaiaHub("https://hub.cruxpay.com", "cruxdev_client-config.json", "private_key_goes_here", "../resources/zel_client_config.json")
