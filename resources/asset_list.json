@@ -1858,5 +1858,15 @@
     "assetIdentifierName": "Contract Address",
     "assetIdentifierValue": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a"
+  },
+  {
+    "assetId": "0fcdab6b-9ca8-48d9-9254-32b078a2b31e",
+    "symbol": "LIFE",
+    "name": "PureLifeCoin",
+    "assetType": "ERC20",
+    "decimals": 18,
+    "assetIdentifierName": "Contract Address",
+    "assetIdentifierValue": "0xff18dbc487b4c2e3222d115952babfda8ba52f5f",
+    "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a"
   }
 ]
