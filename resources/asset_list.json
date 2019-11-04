@@ -1868,5 +1868,25 @@
     "assetIdentifierName": "Contract Address",
     "assetIdentifierValue": "0xff18dbc487b4c2e3222d115952babfda8ba52f5f",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a"
+  },
+  {
+    "assetId": "163be021-9a85-41c8-ad8c-bdbf779e8dcd",
+    "symbol": "VBK",
+    "name": "VeriBlock",
+    "assetType": null,
+    "decimals": 8,
+    "assetIdentifierName": null,
+    "assetIdentifierValue": null,
+    "parentAssetId": null
+  },
+  {
+    "assetId": "0b10f26b-b4aa-43f1-b085-79f2e04e057a",
+    "symbol": "VEIL",
+    "name": "Veil",
+    "assetType": null,
+    "decimals": 8,
+    "assetIdentifierName": null,
+    "assetIdentifierValue": null,
+    "parentAssetId": null
   }
 ]
