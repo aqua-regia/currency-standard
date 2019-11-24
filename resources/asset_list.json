@@ -1888,5 +1888,85 @@
     "assetIdentifierName": null,
     "assetIdentifierValue": null,
     "parentAssetId": null
+  },  
+  {
+    "assetId": "bb0e2008-8e7b-4fee-b1cd-0fa8148e2284",
+    "symbol": "HPT",
+    "name": "HuobiPoolToken",
+    "assetType": "ERC20",
+    "decimals": 18,
+    "assetIdentifierName": "Contract Address",
+    "assetIdentifierValue": "0xa66Daa57432024023DB65477BA87D4E7F5f95213",
+    "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a"
+  },
+    {
+    "assetId": "a96765ca-eba7-47f6-9b4b-cdb513751481",
+    "symbol": "HTB",
+    "name": "Hotbit Token",
+    "assetType": "ERC20",
+    "decimals": 18,
+    "assetIdentifierName": "Contract Address",
+    "assetIdentifierValue": "0x6be61833FC4381990e82D7D4a9F4c9B3F67eA941",
+    "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a"
+  },
+    {
+    "assetId": "c79f65ff-0bf2-4350-a93d-8a9aba318505",
+    "symbol": "ZB",
+    "name": " ZBToken",
+    "assetType": "ERC20",
+    "decimals": 18,
+    "assetIdentifierName": "Contract Address",
+    "assetIdentifierValue": "0xBd0793332e9fB844A52a205A233EF27a5b34B927",
+    "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a"
+  },
+    {
+    "assetId": "cd7b2dfd-cad6-4555-8c0e-14f05657534e",
+    "symbol": "MX",
+    "name": "MX Token",
+    "assetType": "ERC20",
+    "decimals": 18,
+    "assetIdentifierName": "Contract Address",
+    "assetIdentifierValue": "0x11eeF04c884E24d9B7B4760e7476D06ddF797f36",
+    "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a"
+  },
+    {
+    "assetId": "9a5809f8-679d-4a7a-9d58-8ba3d50e5535",
+    "symbol": "BF",
+    "name": "BitForex Token",
+    "assetType": "ERC20",
+    "decimals": 18,
+    "assetIdentifierName": "Contract Address",
+    "assetIdentifierValue": "0x5b71BEE9D961b1B848f8485EEC8d8787f80217F5",
+    "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a"
+  },
+    {
+    "assetId": "e53d2a02-00f9-4d63-827f-a673f6961ecc",
+    "symbol": "OKB",
+    "name": "OKB",
+    "assetType": "ERC20",
+    "decimals": 18,
+    "assetIdentifierName": "Contract Address",
+    "assetIdentifierValue": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
+    "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a"
+  },
+    {
+    "assetId": "11e33d88-2a73-4176-838b-47302662b1db",
+    "symbol": "BUSD",
+    "name": "Binance USD",
+    "assetType": "ERC20",
+    "decimals": 18,
+    "assetIdentifierName": "Contract Address",
+    "assetIdentifierValue": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+    "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a"
+  },
+  {
+    "assetId": "936c485e-587e-406d-8e60-deec09f878f9",
+    "symbol": "HT",
+    "name": "HuobiToken",
+    "assetType": "ERC20",
+    "decimals": 18,
+    "assetIdentifierName": "Contract Address",
+    "assetIdentifierValue": "0x6f259637dcD74C767781E37Bc6133cd6A68aa161",
+    "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a"
   }
 ]
