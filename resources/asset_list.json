@@ -1968,5 +1968,15 @@
     "assetIdentifierName": "Contract Address",
     "assetIdentifierValue": "0x6f259637dcD74C767781E37Bc6133cd6A68aa161",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a"
+  },
+  {
+    "assetId": "5c1562d4-14ca-11ea-8d71-362b9e155667",
+    "symbol": "DAI",
+    "name": "DAI",
+    "assetType": "ERC20",
+    "decimals": 18,
+    "assetIdentifierName": "Contract Address",
+    "assetIdentifierValue": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a"
   }
 ]
