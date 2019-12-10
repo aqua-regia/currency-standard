@@ -1978,5 +1978,25 @@
     "assetIdentifierName": "Contract Address",
     "assetIdentifierValue": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a"
+  },
+  {
+    "assetId": "01446739-1bd4-4d97-8113-df9ec19b54ef",
+    "symbol": "VTX",
+    "name": "VOLENTIX",
+    "assetType": "EOSToken",
+    "decimals": 8,
+    "assetIdentifierName": "Account Name",
+    "assetIdentifierValue": "volentixgsys",
+    "parentAssetId": "948a4b55-be93-4caa-ab6e-9b2076a0a958"
+  },
+  {
+    "assetId": "62176ba4-7928-4e79-8afe-046f192cfcdd",
+    "symbol": "EOSDT",
+    "name": "EOSDT",
+    "assetType": "EOSToken",
+    "decimals": 9,
+    "assetIdentifierName": "Account Name",
+    "assetIdentifierValue": "eosdtsttoken",
+    "parentAssetId": "948a4b55-be93-4caa-ab6e-9b2076a0a958"
   }
 ]
