@@ -1998,5 +1998,45 @@
     "assetIdentifierName": "Account Name",
     "assetIdentifierValue": "eosdtsttoken",
     "parentAssetId": "948a4b55-be93-4caa-ab6e-9b2076a0a958"
+  },
+  {
+    "assetId": "129a9628-fda7-47d0-8b11-f6871b0fd03b",
+    "symbol": "PLR",
+    "name": "PILLAR",
+    "assetType": "ERC20",
+    "decimals": 18,
+    "assetIdentifierName": "Contract Address",
+    "assetIdentifierValue": "0xe3818504c1b32bf1557b16c238b2e01fd3149c17",
+    "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a"
+  },
+  {
+    "assetId": "352f1cca-d28d-41f9-8819-47cebe7c8f3a",
+    "symbol": "EDG",
+    "name": "Edgeless",
+    "assetType": "ERC20",
+    "decimals": 0,
+    "assetIdentifierName": "Contract Address",
+    "assetIdentifierValue": "0x08711d3b02c8758f2fb3ab4e80228418a7f8e39c",
+    "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a"
+  },
+  {
+    "assetId": "efd69854-7b54-4753-9f2a-2a0c79d6c819",
+    "symbol": "VERI",
+    "name": "Veritaseum",
+    "assetType": "ERC20",
+    "decimals": 18,
+    "assetIdentifierName": "Contract Address",
+    "assetIdentifierValue": "0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374",
+    "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a"
+  },
+  {
+    "assetId": "f21a6cce-ffeb-45ad-885f-efa0680cd231",
+    "symbol": "WETH",
+    "name": "Wrapped Ether",
+    "assetType": "ERC20",
+    "decimals": 18,
+    "assetIdentifierName": "Contract Address",
+    "assetIdentifierValue": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "parentAssetId": "4e4d9982-3469-421b-ab60-2c0c2f05386a"
   }
 ]
